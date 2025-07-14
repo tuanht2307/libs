@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
+    namespace "com.firstfloorsoftware.flutter_sodium"
     defaultConfig {
         minSdkVersion 16
     }
